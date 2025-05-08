@@ -1,4 +1,4 @@
-<h2 align="left">Fique a vontade!🧑‍💻</h2>
+<h2 align="center">Olá 👋! Tenho experiência com vendas de sistemas ERP, e tenho habilidades com Tailwindcss e Svelte para o desenvolvimento e a manutenção de projetos.🧑‍💻</h2>
 
 ###
 
